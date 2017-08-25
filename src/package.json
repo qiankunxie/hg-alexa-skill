@@ -1,0 +1,19 @@
+{
+  "name": "highground-alexa",
+  "version": "1.0.0",
+  "description": "Highground Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "highground"
+  ],
+  "author": "qxie@highground.com",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "superagent": "^3.6.0"
+  }
+}
